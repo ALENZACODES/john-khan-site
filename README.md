@@ -2,7 +2,7 @@
 
 # John Khan: personal site
 
-**My personal site: projects, background, education and resume.**
+**My personal site: projects, background and education.**
 
 [![Live site](https://img.shields.io/badge/live_site-open-011F5B?style=flat-square)](https://alenzacodes.github.io/john-khan-site/) [![Licence: MIT](https://img.shields.io/badge/licence-MIT-990000?style=flat-square)](LICENSE) ![Built with HTML](https://img.shields.io/badge/built_with-HTML-4a4a4a?style=flat-square)
 
@@ -12,7 +12,7 @@ Live: https://alenzacodes.github.io/john-khan-site/
 
 ## What it does
 
-A one-page site with my projects, my background in Canadian financial services, my education and a link to download my resume.
+A one-page site with my projects, my background in Canadian financial services, my education.
 
 ## Quick start
 
@@ -26,7 +26,6 @@ python3 -m http.server 8000
 
 ```
 index.html              the whole site
-John_Khan_Resume.pdf    resume linked from the page
 ```
 
 ## Licence
